@@ -8,7 +8,7 @@ for(i=0;i<=num;i++)
 {
 f=f*i;
 }
-printf("factorial of %d is:%d",num,f);
+printf("factorial of %d is %d:",num,f);
 return 0;
 }
 
