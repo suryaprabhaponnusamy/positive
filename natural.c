@@ -6,7 +6,7 @@ printf("enter a number");
 scanf("%d",&N);
 for(i=0;i<=N;i++)
 {
-sum+=0;
+sum+=i;
 }
 printf("sum of natural number=%d",N,sum);
 return 0;
